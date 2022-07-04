@@ -1,4 +1,4 @@
-<p align="center"><a href="https://monkey.edu.vn/">👋🏻 I'm a BackEnd developer from 🇻🇳</a></p>
+<p align="center"><a href="https://monkey.edu.vn/"><b>👋🏻 I'm a BackEnd developer from 🇻🇳</b></a></p>
 
 <br />
 

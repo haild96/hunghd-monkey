@@ -1,8 +1,7 @@
-<p align="center"><a href="https://monkey.edu.vn/"></a></p>
+<p align="center"><a href="https://monkey.edu.vn/">👋🏻 I'm a BackEnd developer from 🇻🇳</a></p>
 
 <br />
 
-👋🏻 I'm a BackEnd developer from 🇻🇳
 
 **About me**
 

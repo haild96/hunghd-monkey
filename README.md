@@ -1,8 +1,8 @@
-<p align="center"><a href="https://monkey.edu.vn/"><img width="80%" alt="Hello, I'm Hunghd From Monkey VietNam!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://monkey.edu.vn/"></a></p>
 
 <br />
 
-I'm a BackEnd developer from 🇻🇳
+👋🏻 I'm a BackEnd developer from 🇻🇳
 
 **About me**
 
